@@ -38,3 +38,15 @@
 .youtube:before {
     content: '\f167'
 }
+
+.paypal:before {
+    content: '\f1ed'
+}
+
+.steam::before {
+    content: '\f1b6'
+}
+
+.snapchat:before {
+    content: '\f2ab'
+}
