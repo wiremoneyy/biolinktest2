@@ -10,6 +10,7 @@
 <i class="fa-brands github">
 <i class="fa-brands tiktok">
 <i class="fa-brands twitter">
+<i class="fa-brands youtube">
 ```
 
 ### Preview

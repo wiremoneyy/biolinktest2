@@ -34,3 +34,7 @@
 .discord:before {
     content: '\f392'
 }
+
+.youtube:before {
+    content: '\f167'
+}
