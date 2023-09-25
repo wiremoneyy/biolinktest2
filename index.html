@@ -70,13 +70,13 @@
     
     // Set the volume to a lower value (0.5 in this example) after the audio has started playing
     audio.addEventListener('play', function() {
-      audio.volume = 0.5;
+      audio.volume = 0.35;
     });
   });
       </script> <!--Theres Javascript now ): -->
       
 
-      <audio id="myAudio" controls>
+      <audio id="myAudio" autoplay controls style="display: none;">
         <source src="One Dance.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
